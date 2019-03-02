@@ -1,0 +1,3 @@
+echo "Deactivating virtualenv..."
+
+deactivate
